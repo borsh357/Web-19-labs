@@ -118,9 +118,6 @@ img.g-img + div {
   margin: 0 auto;
 }
 
-.email-container table:first-shild {
-}
-
 .primary {
 	background: #17bebb;
 }
@@ -212,7 +209,7 @@ a {
 .hero {
 	position: relative;
 	z-index: 0;
-  padding: 2em 0 2em 0;
+	padding: 2em 0 2em 0;
 }
 
 .hero .text {
