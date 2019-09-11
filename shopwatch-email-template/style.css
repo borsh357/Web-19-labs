@@ -200,6 +200,10 @@ a {
   font-weight: 700;
 }
 
+.shop-link{
+	font-size: 1.7em;
+}
+
 /* HERO */
 #hero{
   padding: 0 2.5em;
@@ -241,6 +245,7 @@ table {
 
 table tr td {
   padding: 0;
+  vertical-align: middle;
 }
 .items tr {
   border-bottom: 1px solid rgba(0,0,0,.05);
@@ -256,6 +261,15 @@ table tr td {
 
 #btn-cell {
   padding: 1em 2.5em;
+  text-align: center;
+}
+
+.width-20 {
+	width: 20%;
+}
+
+.width-80 {
+	width: 80%;
 }
 
 /* PRODUCT */
