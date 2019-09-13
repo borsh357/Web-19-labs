@@ -197,12 +197,12 @@ a {
   font-weight: 700;
 }
 
-.shop-link{
+.shop-link {
   font-size: 1.7em;
 }
 
 /* HERO */
-#hero{
+#hero {
   padding: 0 2.5em;
 }
 
@@ -224,12 +224,12 @@ a {
   line-height: 1.2;
 }
 
-.hero .text h3{
+.hero .text h3 {
   font-size: 24px;
   font-weight: 200;
 }
 
-.hero .text h2 span{
+.hero .text h2 span {
   font-weight: 600;
   color: #000;
 }
@@ -248,7 +248,7 @@ table tr td {
   border-bottom: 1px solid rgba(0,0,0,.05);
 }
 
-.items tr td{
+.items tr td {
   text-align:left; padding: 0 2.5em;
 }
 
